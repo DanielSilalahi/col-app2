@@ -1,6 +1,7 @@
 /backend/uploads/*
 /backend/__pycache__
 /backend/venv
+.worktrees/
 mobile/collection_app/.dart_tool
 mobile/collection_app/build/*
 mobile/collection_app/ios/*
